@@ -1,3 +1,3 @@
-function print(params) {
+function rint(params) {
     document.write(params);
 }
